@@ -19,7 +19,7 @@
 |
 */
 
-require __DIR__.'/../../Laravel/fw_trabalho/bootstrap/autoload.php';
+require __DIR__.'/../../fw_trabalho/bootstrap/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -33,7 +33,7 @@ require __DIR__.'/../../Laravel/fw_trabalho/bootstrap/autoload.php';
 |
 */
 
-$app = require_once __DIR__.'/../../Laravel/fw_trabalho/bootstrap/app.php';
+$app = require_once __DIR__.'/../../fw_trabalho/bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------

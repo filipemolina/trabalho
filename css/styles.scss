@@ -4,8 +4,7 @@
 
 /*********************** Variáveis principais*/
 
-$cor-principal  : #3D276B;
-$cor-secundaria : #BFA15F;
+@import '../scss/variables';
 
 /*********************** Sobrescrever os estilos principais */
 
@@ -86,7 +85,7 @@ body { color: lighten($cor-principal, 20%);; background-color: $cor-principal }
 .btn-info.active.focus, .btn-info.active:focus, .btn-info.active:hover, .btn-info:active.focus, .btn-info:active:focus, .btn-info:active:hover, .open>.dropdown-toggle.btn-info.focus, .open>.dropdown-toggle.btn-info:focus, .open>.dropdown-toggle.btn-info:hover 
 {
     color: #fff;
-    background-color: shade(lighten($cor-principal, 30%), 10%);
+    background-color: shade(lighten($cor-principal, 30%), 20%);
     border-color: $cor-principal;
 }
 

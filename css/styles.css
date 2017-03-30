@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /*********************** Funções */
 /*********************** Variáveis principais*/
+/* Cores principais do site */
 /*********************** Sobrescrever os estilos principais */
 body {
   color: #6842b6;
@@ -62,7 +63,7 @@ body {
 
 .btn-info.active.focus, .btn-info.active:focus, .btn-info.active:hover, .btn-info:active.focus, .btn-info:active:focus, .btn-info:active:hover, .open > .dropdown-toggle.btn-info.focus, .open > .dropdown-toggle.btn-info:focus, .open > .dropdown-toggle.btn-info:hover {
   color: #fff;
-  background-color: #775ab3;
+  background-color: #6a509f;
   border-color: #3D276B; }
 
 .btn-success, .btn-success.active.focus, .btn-success.active:focus, .btn-success.active:hover, .btn-success:active.focus, .btn-success:active:focus, .btn-success:active:hover, .open > .dropdown-toggle.btn-success.focus, .open > .dropdown-toggle.btn-success:focus, .open > .dropdown-toggle.btn-success:hover {

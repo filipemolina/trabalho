@@ -229,3 +229,31 @@ a.btn-ver
 {
     padding: 0 3px;
 }
+
+.btn-restaurar {
+    font-size: 13px;
+    padding: 1px 6px;
+}
+
+a.site_title { height: auto; text-align: center; }
+a.site_title img { width: 70%; }
+
+div.profile { margin-top: 140px; }
+div#sidebar-menu { margin-top: -30px; }
+
+/*div.left_col { min-height: 730px !important; }*/
+div#logo-rodape 
+{  
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+div.logo-login
+{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: -100px;
+}
+

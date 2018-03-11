@@ -1,5 +1,7 @@
 # Galpão de Empregos
 
+_(Estes são apenas os arquivos públicos desse projeto. O framework e a lógica se encontram no repositório [Trabalho FW](https://github.com/filipemolina/trabalho-fw))_
+
 Cadastro municipal de moradores de Mesquita que estão atualmente desempregados. 
 
 ### Objetivo
